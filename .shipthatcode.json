@@ -1,0 +1,66 @@
+{
+  "course": "build-memory-allocator",
+  "language": "c",
+  "language_id": 1050,
+  "entrypoint": "main.c",
+  "version": 1,
+  "content_hash": "d5888684cdecefc4",
+  "lessons": [
+    {
+      "slug": "why-allocator",
+      "tests_hash": "c9ced4d9725d"
+    },
+    {
+      "slug": "memory-layout",
+      "tests_hash": "1ffaa6d48838"
+    },
+    {
+      "slug": "free-list",
+      "tests_hash": "61b657bea272"
+    },
+    {
+      "slug": "splitting",
+      "tests_hash": "ab88da5d9bc6"
+    },
+    {
+      "slug": "coalescing",
+      "tests_hash": "b383eb73e840"
+    },
+    {
+      "slug": "fit-strategies",
+      "tests_hash": "2f47082d1ff7"
+    },
+    {
+      "slug": "boundary-tags",
+      "tests_hash": "3dc71bdcb6ea"
+    },
+    {
+      "slug": "size-classes",
+      "tests_hash": "6ed23fb8f1a1"
+    },
+    {
+      "slug": "buddy-allocator",
+      "tests_hash": "fe8aa9e3c239"
+    },
+    {
+      "slug": "slab-allocator",
+      "tests_hash": "04e65d6bede8"
+    },
+    {
+      "slug": "thread-cache",
+      "tests_hash": "3351c3b8980a"
+    },
+    {
+      "slug": "fragmentation",
+      "tests_hash": "2d91468eedee"
+    },
+    {
+      "slug": "real-world",
+      "tests_hash": "7f20bd426ce8"
+    },
+    {
+      "slug": "full-allocator",
+      "tests_hash": "db9d8a02eb72"
+    }
+  ]
+}

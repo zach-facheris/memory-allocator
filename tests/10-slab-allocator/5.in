@@ -1,0 +1,6 @@
+CACHE_CREATE dentry 32 8
+ADDR dentry 0 3
+ALLOC dentry
+ADDR dentry 0 3
+ADDR dentry 1 2
+ALLOC nope
